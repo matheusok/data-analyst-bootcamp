@@ -32,3 +32,16 @@ INSERT INTO EmployeeSalary
 VALUES
 (1010, NULL, 47000),
 (NULL, 'Salesman', 43000);
+
+INSERT INTO EmployeeDemographics
+VALUES
+(1011, 'Ryan', 'Howard', 26, 'Male'),
+(NULL, 'Holly', 'Flax', NULL, NULL),
+(1013, 'Darryl', 'Philbin', NULL, 'Male');
+
+INSERT INTO WareHouseEmployeeDemographics
+VALUES
+(1013, 'Darryl', 'Philbin', NULL, 'Male'),
+(1050, 'Roy', 'Anderson', 31, 'Male'),
+(1051, 'Hidetoshi', 'Hasagawa', 40, 'Male'),
+(1052, 'Val', 'Johnson', 31, 'Female');
