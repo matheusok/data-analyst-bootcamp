@@ -1,10 +1,9 @@
 <h1>
-Covid Data Analysis - SQL Data Exploration Project
+Data Analyst Bootcamp
 </h1>
 
 ## About 
-This project was developed by importing data related to Covid until 04/30/2021. </br>
-All the content and code was developed with the help of Alex The Analyst on his [YouTube Channel](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF).
+This repository contains studies and projects in the field of Data Analysis.</br>
 
 Here you can check my studies about SQL! [SQL Studies](Projects\SQL).</br>
 And here you can check the project! [Covid Data Analysis](Projects\covid-data-analysis-sql-project.sql)
