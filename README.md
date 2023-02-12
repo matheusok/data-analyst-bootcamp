@@ -5,7 +5,7 @@ Data Analyst Bootcamp
 ## About 
 This repository contains studies and projects in the field of Data Analysis.</br>
 
-Here you can check my studies about SQL! [SQL Studies](Projects\SQL).</br>
+Here you can check my studies about SQL! [SQL Studies](Projects\SQL)</br>
 And here you can check the project! [Covid Data Analysis](Projects\covid-data-analysis-sql-project.sql)
 
 ## Tools used during the studies
