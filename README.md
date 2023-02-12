@@ -5,8 +5,8 @@ Data Analyst Bootcamp
 ## About 
 This repository contains studies and projects in the field of Data Analysis.</br>
 
-Here you can check my studies about SQL! [SQL Studies](https://github.com/matheusok/data-analyst-bootcamp/tree/master/Projects)</br>
-And here you can check the project! [Covid Data Analysis](https://github.com/matheusok/data-analyst-bootcamp/tree/master/SQL)
+Here you can check my studies about SQL! [SQL Studies](https://github.com/matheusok/data-analyst-bootcamp/tree/master/SQL)</br>
+And here you can check the project! [Covid Data Analysis](https://github.com/matheusok/data-analyst-bootcamp/tree/master/Projects)
 
 ## Tools used during the studies
 * **Programming Language:** Structured Query Language (SQL)
