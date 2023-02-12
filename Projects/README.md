@@ -1,6 +1,5 @@
 <h1>
 Covid Data Analysis - SQL Data Exploration Project
-
 </h1>
 
 ## About 
