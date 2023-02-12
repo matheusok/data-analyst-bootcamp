@@ -1,10 +1,13 @@
 <h1>
-[Covid Data Analysis - SQL Data Exploration Project](covid-data-analysis-sql-project.sql)
+Covid Data Analysis - SQL Data Exploration Project
+
 </h1>
 
 ## About 
 This project was developed by importing data related to Covid until 04/30/2021.
 All the content and code was developed with the help of Alex The Analyst on his [YouTube Channel](https://www.youtube.com/watch?v=qfyynHBFOsM&ab_channel=AlexTheAnalyst).
+
+Check the project! [Covid Data Analysis](covid-data-analysis-sql-project.sql)
 
 ## Tools used during the studies
 * **Programming Language:** Structured Query Language (SQL)
